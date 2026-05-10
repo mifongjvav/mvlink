@@ -1,0 +1,16 @@
+{
+  "name": "mvlink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Argon <mifongjvav@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "mvlink": "./index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.5"
+  }
+}
