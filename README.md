@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-npm i -g mvlink
+npm i -g @argon_awa/mvlink
 ```
 
 ## 使用
